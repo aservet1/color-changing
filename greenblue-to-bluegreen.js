@@ -1,4 +1,4 @@
-/**   Makes your plain white HTML backgrounds slightly more interesting if you need to look at it.
+/**   Makes your plain white HTML backgrounds slightly more interesting if you need to look at it for long periods of time.
  *
  *  You can edit the color values and parameters, but this code isn't 100% modular yet, so make
  *  sure you understand everything and what you might need to edit in the code itself for your
